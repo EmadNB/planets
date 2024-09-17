@@ -1,5 +1,6 @@
 import numpy as np
 import click
+import pandas
 import csv
 import multiprocessing
 
